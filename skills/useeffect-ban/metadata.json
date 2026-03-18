@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "organization": "Community",
+  "date": "March 2026",
+  "abstract": "Enforce a no-direct-useEffect policy in React codebases. Provides five declarative replacement patterns (derived state, data-fetching libraries, event handlers, useMountEffect, key-based remounting) along with ESLint rules and agent guidance to eliminate race conditions, infinite loops, and dependency-array bugs.",
+  "references": [
+    "https://react.dev/learn/you-might-not-need-an-effect",
+    "https://factoryai.com/blog/why-we-banned-useeffect",
+    "https://overreacted.io/a-complete-guide-to-useeffect/"
+  ]
+}
