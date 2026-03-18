@@ -6,6 +6,7 @@
   "references": [
     "https://react.dev/learn/you-might-not-need-an-effect",
     "https://factoryai.com/blog/why-we-banned-useeffect",
-    "https://overreacted.io/a-complete-guide-to-useeffect/"
+    "https://overreacted.io/a-complete-guide-to-useeffect/",
+    "https://x.com/alvinsng/status/2033969062834045089"
   ]
 }

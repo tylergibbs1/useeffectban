@@ -32,3 +32,4 @@ npx skills add useeffect-ban
 
 - [You Might Not Need an Effect](https://react.dev/learn/you-might-not-need-an-effect) — React docs
 - [Why We Banned useEffect](https://factoryai.com/blog/why-we-banned-useeffect) — Factory
+- [Alvin Ng's thread](https://x.com/alvinsng/status/2033969062834045089) — UseFactory
